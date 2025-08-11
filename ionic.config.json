@@ -1,0 +1,7 @@
+{
+  "name": "foundify-shell",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
